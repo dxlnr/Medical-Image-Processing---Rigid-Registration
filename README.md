@@ -10,7 +10,6 @@ Rigid registration algorithms can be categorized into two groups: geometry and i
 
 # Task Description
 
-Task A:
 The goal of this task is to find a rigid registration between two ophtalmology 2D images. The images are Fundus Auto Flourescence images (FAF) of patients that suffer age related macular degeneration (AMD), a condition of retinal atrophy that causes vision loss.
 
 # Results
