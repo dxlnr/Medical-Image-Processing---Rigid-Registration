@@ -11,9 +11,11 @@ Rigid registration algorithms can be categorized into two groups: geometry and i
 # Task Description
 
 Registration by features
+
 The goal of this task is to perform an automatic registration between two ophthalmology 2D images using features. The images are Fundus Auto Flourescence images (FAF) of patients that suffer age related macular degeneration (AMD), a condition of retinal atrophy that causes vision loss.
 
 Detect the changes
+
 The goal of this task is to detect the changes of the lesions between two registered ophthalmology 2D images as you can see below. On the left we can see a baseline image with the changes in the red and on the right, we can see the follow-up image with the changes in red.
 
 # Results
